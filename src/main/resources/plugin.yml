@@ -2,3 +2,8 @@ name: ATeleport
 version: '${project.version}'
 main: ru.anime.ateleport.ATeleport
 api-version: '1.16'
+commands:
+  teleport:
+    aliases:
+      - tpa
+
